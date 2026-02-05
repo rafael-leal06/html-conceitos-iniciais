@@ -1,2 +1,2 @@
 # html-conceitos-iniciais
-Trabalhos iniciais do curso de ADS desenvolvidos em HTML.
+Trabalhos iniciais da disciplina Ferramentas de Desenvolvimento Web do curso de Analise e Desenvolvimento de Sistemas desenvolvidos em HTML.
